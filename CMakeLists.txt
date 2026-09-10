@@ -12,3 +12,5 @@ if(MSVC)
 endif()
 
 add_subdirectory(compositor)
+add_subdirectory(transport)
+add_subdirectory(daemon)
